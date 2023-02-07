@@ -1,2 +1,1 @@
-# PrepCourse_Henry
-este es un repositorio de prueba
+Repositorio de prueba en github
